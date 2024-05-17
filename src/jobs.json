@@ -1,0 +1,75 @@
+
+[
+  {
+    "id": "1",
+    "title": "Junior React Developer",
+    "description": "We're seeking... Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odio ea tempore, culpa, quas repudiandae eaque laborum, voluptas itaque delectus quis aperiam. Nobis consequatur, hic reprehenderit aliquam perferendis assumenda modi quia.",
+    "location": "Remote",
+    "salary": "$50K",
+    "company": {
+      "name": "Star Venture",
+      "description": "Star Venture is.. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odio ea tempore, culpa, quas repudiandae eaque laborum, voluptas itaque delectus quis aperiam. Nobis consequatur, hic reprehenderit aliquam perferendis assumenda modi quia.",
+      "contact-email": "starven@email.email"
+    }
+  },
+  {
+    "id": "2",
+    "title": "React Developer",
+    "description": "We're seeking... Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odio ea tempore, culpa, quas repudiandae eaque laborum, voluptas itaque delectus quis aperiam. Nobis consequatur, hic reprehenderit aliquam perferendis assumenda modi quia.",
+    "location": "Remote",
+    "salary": "$50K",
+    "company": {
+      "name": "Star Venture",
+      "description": "Star Venture is.. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odio ea tempore, culpa, quas repudiandae eaque laborum, voluptas itaque delectus quis aperiam. Nobis consequatur, hic reprehenderit aliquam perferendis assumenda modi quia.",
+      "contact-email": "starven@email.email"
+    }
+  },
+  {
+    "id": "3",
+    "title": "Senior React Developer",
+    "description": "We're seeking... Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odio ea tempore, culpa, quas repudiandae eaque laborum, voluptas itaque delectus quis aperiam. Nobis consequatur, hic reprehenderit aliquam perferendis assumenda modi quia.",
+    "location": "Remote",
+    "salary": "$50K",
+    "company": {
+      "name": "Star Venture",
+      "description": "Star Venture is.. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odio ea tempore, culpa, quas repudiandae eaque laborum, voluptas itaque delectus quis aperiam. Nobis consequatur, hic reprehenderit aliquam perferendis assumenda modi quia.",
+      "contact-email": "starven@email.email"
+    }
+  },
+  {
+    "id": "4",
+    "title": "Senior React Developer",
+    "description": "We're seeking... Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odio ea tempore, culpa, quas repudiandae eaque laborum, voluptas itaque delectus quis aperiam. Nobis consequatur, hic reprehenderit aliquam perferendis assumenda modi quia.",
+    "location": "Remote",
+    "salary": "$50K",
+    "company": {
+      "name": "Star Venture",
+      "description": "Star Venture is.. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odio ea tempore, culpa, quas repudiandae eaque laborum, voluptas itaque delectus quis aperiam. Nobis consequatur, hic reprehenderit aliquam perferendis assumenda modi quia.",
+      "contact-email": "starven@email.email"
+    }
+  },
+  {
+    "id": "5",
+    "title": "Junior React Developer",
+    "description": "We're seeking... Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odio ea tempore, culpa, quas repudiandae eaque laborum, voluptas itaque delectus quis aperiam. Nobis consequatur, hic reprehenderit aliquam perferendis assumenda modi quia.",
+    "location": "Remote",
+    "salary": "$50K",
+    "company": {
+      "name": "Star Venture",
+      "description": "Star Venture is.. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odio ea tempore, culpa, quas repudiandae eaque laborum, voluptas itaque delectus quis aperiam. Nobis consequatur, hic reprehenderit aliquam perferendis assumenda modi quia.",
+      "contact-email": "starven@email.email"
+    }
+  },
+  {
+    "id": "6",
+    "title": "Junior React Developer",
+    "description": "We're seeking... Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odio ea tempore, culpa, quas repudiandae eaque laborum, voluptas itaque delectus quis aperiam. Nobis consequatur, hic reprehenderit aliquam perferendis assumenda modi quia.",
+    "location": "Remote",
+    "salary": "$50K",
+    "company": {
+      "name": "Star Venture",
+      "description": "Star Venture is.. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odio ea tempore, culpa, quas repudiandae eaque laborum, voluptas itaque delectus quis aperiam. Nobis consequatur, hic reprehenderit aliquam perferendis assumenda modi quia.",
+      "contact-email": "starven@email.email"
+    }
+  }
+]
